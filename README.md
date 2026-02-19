@@ -2,7 +2,7 @@
 
 SHEild is a Women Safety & Smart Alert System designed to provide quick emergency assistance through a one-tap SOS feature.
 
-This repository contains the backend API built using Node.js, Express, and MongoDB.
+This repository contains the backend API built using Django,SQLite,React.
 
 The backend handles:
 
@@ -14,4 +14,4 @@ Processing SOS alerts
 
 Generating location-based emergency messages
 
-(Optional) SMS integration using Twilio# SHEshield
+SMS integration using Vonage SHEshield
