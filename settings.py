@@ -1,5 +1,0 @@
-import os
-
-VONAGE_API_KEY = os.getenv('VONAGE_API_KEY')
-VONAGE_API_SECRET = os.getenv('VONAGE_API_SECRET')
-VONAGE_FROM_NUMBER = os.getenv('VONAGE_FROM_NUMBER')
